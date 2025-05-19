@@ -5,6 +5,8 @@ This project delivers a comprehensive data warehousing and analytics solution.
 It covers the full lifecycle—from building a modern data warehouse using SQL Server
 to implementing ETL, data modeling, and generating actionable insights.
 
+---
+
 ## Project Requirements
 
 ### Building the Data Warehouse (Data engineering)
@@ -28,6 +30,8 @@ Develop SQL-based analytics to diliver detailed insights into:
 - **Sales Trends**
 
   These insights empower stakeholders with key business metrics, enabling strategic decision-making.
+  
+---
 
   ## License
 
